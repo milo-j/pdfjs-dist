@@ -1,6 +1,6 @@
 {
-  "name": "pdfjs-dist",
-  "version": "2.8.335",
+  "name": "neu-pdfjs-dist",
+  "version": "2.8.336",
   "main": "build/pdf.js",
   "types": "types/pdf.d.ts",
   "description": "Generic build of Mozilla's PDF.js library.",
@@ -26,6 +26,6 @@
   "format": "amd",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mozilla/pdfjs-dist"
+    "url": "https://github.com/milo-j/pdfjs-dist.git"
   }
 }

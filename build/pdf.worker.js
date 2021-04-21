@@ -21184,9 +21184,9 @@ class WidgetAnnotation extends Annotation {
     data.hidden = this._hasFlag(data.annotationFlags, _util.AnnotationFlag.HIDDEN);
 
     if (data.fieldType === "Sig") {
-      data.fieldValue = null;
-      this.setFlags(_util.AnnotationFlag.HIDDEN);
-      data.hidden = true;
+      // data.fieldValue = null;
+      // this.setFlags(_util.AnnotationFlag.HIDDEN);
+      // data.hidden = true;
     }
   }
 
